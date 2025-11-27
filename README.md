@@ -2,12 +2,12 @@
   
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de mí***
 
-Soy un desarrollador **Full Stack** enfocado en crear soluciones web escalables y eficientes. Me apasiona integrar el frontend y el backend utilizando un *stack* de tecnologías moderno. Actualmente, estoy ampliando mis conocimientos en arquitectura de sistemas.
-- 🌱 Mis tecnologías recientes de enfoque son: **Next.js**, **Python** y **FastAPI**.
+Soy un desarrollador Full Stack enfocado en crear soluciones web escalables y eficientes. Me apasiona integrar el frontend y el backend utilizando un *stack* de tecnologías moderno. Actualmente, estoy ampliando mis conocimientos en arquitectura de sistemas.
+- 🌱 Mis tecnologías recientes de enfoque son: **Next.js**, **Node** y **Express**.
 - 👯 Estoy interesado en colaborar en proyectos *open source* y en la construcción de APIs robustas.
 - ✔ Pregúntame sobre cualquier cosa, estaré encantado de ayudarte.
-- Fuera de la tecnología, 🎮 disfruto de los videojuegos, 🎵 escuchar música y ⚽ jugar/ver fútbol.
-- 📫 Contáctame en: <a href="mailto:[Tu Correo Electrónico]">Aquí</a>
+- Fuera de la tecnología, 🎮 disfruto de los videojuegos,  la compañia de mis amigos y Leer sobre Historia.
+- 📫 Contáctame en: <a href="mailto:joemolina.trabajo@gmail.com">Aquí</a>
 
 ## 🚀 Mi Stack de Tecnología Full Stack
 
