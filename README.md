@@ -67,7 +67,7 @@ Soy un desarrollador **Full Stack** enfocado en crear soluciones web escalables 
 <a href="https://www.linkedin.com/in/joe-molina-2b7089200/">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
 </a>
-<a href= "[[Tu Enlace de Instagram]](https://www.instagram.com/joe.molina01?igsh=Mm85Y2Z6aGw0Yzkx)">
+<a href= "https://www.instagram.com/joe.molina01?igsh=Mm85Y2Z6aGw0Yzkx">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
