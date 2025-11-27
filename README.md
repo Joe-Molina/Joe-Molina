@@ -1,6 +1,8 @@
 <h1 align="center"><b>¡Hola! Soy Joe Molina </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
   
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de mí***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; 
+
+## Acerca de mí
 
 Soy un desarrollador Full Stack enfocado en crear soluciones web escalables y eficientes. Me apasiona integrar el frontend y el backend utilizando un *stack* de tecnologías moderno. Actualmente, estoy ampliando mis conocimientos en arquitectura de sistemas.
 - 🌱 Mis tecnologías recientes de enfoque son: **Next.js**, **Node** y **Express**.
